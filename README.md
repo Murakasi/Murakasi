@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zuzukan
 - 👀 I’m interested in developing apps and games 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
