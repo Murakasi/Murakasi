@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zuzukan
+- 👋 Hi, I’m @Murakasi
 - 👀 I’m interested in developing apps and games 
 - 🌱 I’m currently learning C# .NET 
 - 💞️ I’m looking to collaborate on ...
