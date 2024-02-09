@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murakasi
 - 👀 I’m interested in developing apps and games 
-- 🌱 I’m currently learning C# .NET 
+- 🌱 I’m currently learning C# .NET and (HTNL CSS JS REACT)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
