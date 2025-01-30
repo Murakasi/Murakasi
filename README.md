@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murakasi
 - 👀 I’m interested in developing apps and games 
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python and (Java)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
